@@ -1,5 +1,6 @@
 # LUMORPH LIRC - Same Hardware. New Shape. New Job. In Milliseconds.
-
+![LUMORPH Diagram](lumorph%20diagram.jpg)
+> "Laser = Pen. Chip = Paper. Shape = Job. Re-Imprint, Don't Replace"
 > **Status: Brainstorming / Nascent Idea. Not Built. Not Proven.**
 > **This repo is my thinking notebook. I am brainstorming, not claiming product.**
 > **If you are physicist, engineer, student — please critique, correct, improve.**
