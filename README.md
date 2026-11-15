@@ -7,7 +7,7 @@
 
 > **Author:** Prahlad, Bihar, India
 > **Started:** 15 Nov 2026
-
+> **Architectural Scope Note:** This framework is a speculative systems-engineering thought experiment exploring post-Von Neumann paradigms. It intentionally abstracts away current material-science bottlenecks (such as phase-change thermal fatigue and optical-electrical conversion losses) to evaluate the logic of hardware-software co-design.
 ---
 
 ## 1. One Line Idea
