@@ -1,10 +1,11 @@
 # PREQUEL — Before LUMORPH-LIRC
 ### The 2 Thoughts That Made The 3rd Thought Possible
-
 > This is not linear thinking. This is 3D thinking.
 > Software (X) + Hardware (Y) + System (Z) — in tandem.
+
+> <
 **> < = Bigger Glass. Mirror facing Mirror.**
-**Not small Meta glasses. Bigger glass.**
+**Not small chashma. Bigger Mirror.**
 
 ---
 
