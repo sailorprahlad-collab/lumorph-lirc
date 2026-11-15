@@ -81,3 +81,38 @@ Not "run software on chip." **Chip BECOMES software.**
 > They called it negative. We multiplied it. It became positive.
 > They called it nariyal. Inside (Mirrorverse)² is not empty.
 > Inside is infinite reflection.
+
+<!-- 
+ADDENDUM - LUMORPH - PJ King
+HIDDEN NOTE - Will NOT show on GitHub page, only in Edit mode.
+
+HDD = Magnet Remembers - Needs Laptop to unzip
+SSD / Flash = Electron Remembers - Needs Mobile to unzip
+CD-ROM = Laser Reads Pits - Pit=0 Flat=1 - Read Only - Needs Player
+CD-RW = Laser Heats + Rewrites DATA only - Needs Player
+LUMORPH = Laser Writes Shape - Shape = Logic - Rewritable MACHINE
+Storage + Processor + Player in ONE chip - Chip BECOMES the job
+
+CD-ROM rewrites NOTHING. CD-RW rewrites DATA. LUMORPH rewrites MACHINE.
+-->
+
+<details>
+<summary><b>📎 Addendum — Click to Expand: Jigsaw Fit + CD-ROM Analysis</b></summary>
+
+<br>
+
+**HDD = Magnet Remembers**
+**SSD = Electron Remembers**
+**CD = Laser Remembers**
+**LUMORPH = Shape Remembers — And Shape WORKS**
+
+- HDD needs Laptop to unzip
+- SSD needs Mobile to unzip
+- CD-ROM needs Player to unzip
+- LUMORPH needs only Laser
+
+> CD-ROM → Rewrites NOTHING
+> CD-RW → Rewrites DATA
+> LUMORPH → Rewrites MACHINE
+
+</details>
