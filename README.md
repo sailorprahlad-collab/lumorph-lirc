@@ -115,4 +115,6 @@ CD-ROM rewrites NOTHING. CD-RW rewrites DATA. LUMORPH rewrites MACHINE.
 > CD-RW → Rewrites DATA
 > LUMORPH → Rewrites MACHINE
 
-</details>
+![LUMORPH - Shape Shifting Chip](lumorph%20diagram.jpg)
+119
+120  </details>
